@@ -31,8 +31,11 @@ Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python)
 ### UI Kit
 
 - [Nuxt UI](https://ui.nuxt.com/) - UI kit based on Tailwind & Headless UI
+- [headlessui](https://headlessui.com/) - >Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS
 - [vuetifyjs](https://vuetifyjs.com/en/) - Material design UI kit
-
+- [Radix Vue](https://www.radix-vue.com/) - Vue port of Radix UI
+- [quasar](https://quasar.dev/)
+- [primevue](https://primevue.org/)
 
 ### Components
 
