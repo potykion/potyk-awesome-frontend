@@ -10,8 +10,8 @@ Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python)
 
 ### Setup
 
-- [SSG](https://kit.svelte.dev/docs/adapter-static)
-- [TailwindCSS + Svelte](https://tailwindcss.com/docs/guides/sveltekit)
+- [SSG](https://kit.svelte.dev/docs/adapter-static) - render svelte app as static html
+- [TailwindCSS + Svelte](https://tailwindcss.com/docs/guides/sveltekit) - setup TailwindCSS for Svelte
 
 ### Components
 
