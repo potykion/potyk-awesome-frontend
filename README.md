@@ -25,6 +25,7 @@ Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python)
 - [svelte-social-auth](https://github.com/beyonk-group/svelte-social-auth) - google auth
 - [svelte-dnd-action](https://github.com/isaacHagoel/svelte-dnd-action) - easy drag-n-drop solution
 - [svelte-textarea-auto-height](https://www.npmjs.com/package/svelte-textarea-auto-height) - easy auto height textarea
+- [svelte-input-mask](https://github.com/xnimorz/svelte-input-mask) - input for phones, money, etc.
 
 ## Vue
 
