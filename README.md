@@ -17,6 +17,7 @@ Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python)
 
 - [skeleton](https://www.skeleton.dev/) - UI kit based on Tailwind
 - [shadcn](https://www.shadcn-svelte.com/) - shadcn Svelte port
+- [melt-ui](https://www.melt-ui.com/)
 
 ### Components
 
@@ -30,6 +31,12 @@ Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python)
 ### UI Kit
 
 - [Nuxt UI](https://ui.nuxt.com/) - UI kit based on Tailwind & Headless UI
+- [vuetifyjs](https://vuetifyjs.com/en/) - Material design UI kit
+
+
+### Components
+
+- [formkit](https://formkit.com/) - best lib to deal with forms
 
 
 ## Framework Agnostic
