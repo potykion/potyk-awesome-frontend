@@ -71,3 +71,4 @@ Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python)
 ## Alternative frontends 
 
 - [alpinejs](https://alpinejs.dev/) - lightweight js framework good when working with plane html like with templating, provides reactive primitives and more
+- [htmx](https://htmx.org/) - html utils like put, delete requests, markup replacing and more
